@@ -3,23 +3,9 @@
      Agentic AI Architect · Principal Engineer · Distributed Systems
      ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   CLIENT → API GATEWAY → SERVICES                                ║
-║                  ↓                                               ║
-║   INTENT → AGENT ROUTER → [ PLANNER · RETRIEVER · EXECUTOR ]    ║
-║                  ↓                                               ║
-║            autonomous. self-healing. at scale.                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 # Debmalya Roy
 
-### Principal Engineer → Agentic AI Architect
+### Agentic AI Architect
 
 *Building the systems that build themselves.*
 
