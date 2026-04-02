@@ -21,13 +21,11 @@
 
 ```yaml
 name: Debmalya Roy
-role: Principal Engineer (Staff-II · L6) → Agentic AI Architect
+role: Staff Engineer
 experience: 18+ years
 location: Bengaluru, India
 
 currently_at: Coupang
-  focus: Order Distribution & Fulfillment · 20M+ orders/day
-  highlight: Model-based distribution replacing legacy rule systems → 20% efficiency gain
 
 previously:
   - Grab      → Lending platform · 50M+ daily transactions · GenAI integration
